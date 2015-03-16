@@ -1,0 +1,1 @@
+[Sample code](http://code.google.com/p/geo-ip-location/w) for querying the free http://geoip.wtanaka.com/ geolocation/geotargeting service
